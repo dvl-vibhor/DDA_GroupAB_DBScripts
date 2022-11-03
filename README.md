@@ -2,15 +2,17 @@
 
 > **Database Design & Applications Assignment, Year-2022**
 
-                      Group AB
+# Group AB
+
                       
-## **Topic**
+
+>  **Topic**
 
 Courier Management
 
 
 
-## **Team Members**
+> **Team Members**
 
  1. PRITHWISH BANERJEE
  2. VIBHOR CHAUHAN
@@ -23,7 +25,7 @@ Courier Management
 
 
 
-## Repository Content
+>  Repository Content
 
  Courier Management Database MS-SQL Server Scripts (schema + data) which contains :- 
  
@@ -32,5 +34,6 @@ Courier Management
  - 1 View
  -  13 Stored Procedures 
 
-## Database Used
+> Database Used
+
 MS- SQL Server 2018 (Express Edition) 
